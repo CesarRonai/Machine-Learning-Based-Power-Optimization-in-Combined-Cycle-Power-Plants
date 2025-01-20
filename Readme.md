@@ -1,4 +1,4 @@
-Machine Learning-Based Power Optimization in Combined Cycle Power Plants
+*****Machine Learning-Based Power Optimization in Combined Cycle Power Plants*****
 
 🔥 Project Overview
 
@@ -77,7 +77,7 @@ Jupyter Notebook
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Machine-Learning-Power-Optimization.git
+git clone [https://github.com/your-username/Machine-Learning-Power-Optimization.git](https://github.com/CesarRonai/Machine-Learning-Based-Power-Optimization-in-Combined-Cycle-Power-Plants)
 cd Machine-Learning-Power-Optimization
 
 2️⃣ Create a Virtual Environment
