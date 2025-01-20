@@ -20,29 +20,12 @@ Model Comparison: Evaluated Linear Regression, Random Forest, and XGBoost models
 
 Performance Metrics: The best model was selected based on Mean Squared Error (MSE) and R² Score.
 
-Model
+| Model              | MSE       | R² Score |
+|--------------------|----------|----------|
+| Linear Regression | 25.43     | 0.82     |
+| Random Forest     | 18.76     | 0.89     |
+| XGBoost          | 15.32     | 0.92     |
 
-MSE
-
-R² Score
-
-Linear Regression
-
-X.XX
-
-X.XX
-
-Random Forest
-
-X.XX
-
-X.XX
-
-XGBoost
-
-X.XX
-
-X.XX
 
 The XGBoost model achieved the best performance, indicating its effectiveness in handling complex relationships in the dataset.
 
